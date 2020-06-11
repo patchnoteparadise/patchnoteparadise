@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/patchnoteparadise/static/css/main.5f361e03.chunk.css",
+    "main.js": "/patchnoteparadise/static/js/main.d13dbe74.chunk.js",
+    "main.js.map": "/patchnoteparadise/static/js/main.d13dbe74.chunk.js.map",
+    "runtime-main.js": "/patchnoteparadise/static/js/runtime-main.820e8087.js",
+    "runtime-main.js.map": "/patchnoteparadise/static/js/runtime-main.820e8087.js.map",
+    "static/js/2.d5c15ac2.chunk.js": "/patchnoteparadise/static/js/2.d5c15ac2.chunk.js",
+    "static/js/2.d5c15ac2.chunk.js.map": "/patchnoteparadise/static/js/2.d5c15ac2.chunk.js.map",
+    "index.html": "/patchnoteparadise/index.html",
+    "precache-manifest.65864435ae68d736b1d7610b4e2544f9.js": "/patchnoteparadise/precache-manifest.65864435ae68d736b1d7610b4e2544f9.js",
+    "service-worker.js": "/patchnoteparadise/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/patchnoteparadise/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d5c15ac2.chunk.js.LICENSE.txt": "/patchnoteparadise/static/js/2.d5c15ac2.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/patchnoteparadise/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.820e8087.js",
+    "static/js/2.d5c15ac2.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.d13dbe74.chunk.js"
+  ]
+}
