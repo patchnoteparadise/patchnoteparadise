@@ -1,5 +1,5 @@
 import React, {useRef} from 'react';
-import './App.css';
+//import './App.css';
 import {makeStyles} from "@material-ui/styles";
 import SearchForm from "./SearchForm";
 
@@ -13,7 +13,9 @@ const App = () => {
 
     return (
         <div className="App">
-            <SearchForm/>
+            <div className={`${classes.root} max-w-6xl mx-auto mt-8`}>
+                <SearchForm/>
+            </div>
         </div>
     );
 };
